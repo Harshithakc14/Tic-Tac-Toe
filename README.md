@@ -10,10 +10,10 @@ A simple web-based Tic-Tac-Toe game built using *HTML, CSS and JavaScript* to pr
 <img src="ttt.png" width="400">
 
 ### Gameplay
-![Gameplay](gameplay.png)
+<img src="ttt1.png" width="400">
 
 ### Winner Announcement
-![Winner](winner.png)
+<img src="ttt2.png" width="400">
 
 ---
 
@@ -22,7 +22,6 @@ A simple web-based Tic-Tac-Toe game built using *HTML, CSS and JavaScript* to pr
 - Event handling
 - Game logic implementation
 - Condition checking
-- UI updates using JavaScript
 
 ---
 
@@ -38,8 +37,7 @@ A simple web-based Tic-Tac-Toe game built using *HTML, CSS and JavaScript* to pr
 2. Open index.html in browser
 
 ---
-
-## ✨ Future Improvements
-- Add AI opponent
-- Add sound effects
-- Mobile responsive design
+## 🤝 Connect With Me
+ 
+💼 LinkedIn: https://www.linkedin.com/in/harshitha-kc14 
+💻 GitHub: https://github.com/YOUR-USERNAME
