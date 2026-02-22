@@ -4,15 +4,10 @@ A simple web-based Tic-Tac-Toe game built using *HTML, CSS and JavaScript* to pr
 
 ---
 
-## 🚀 Live Demo
-👉 https://harshithakc14.github.io/Tic-Tac-Toe/
-
----
-
 ## 📸 Screenshots
 
 ### Start Screen
-![Start](ttt1.png)
+<img src="ttt.png" width="400">
 
 ### Gameplay
 ![Gameplay](gameplay.png)
