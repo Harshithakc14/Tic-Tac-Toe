@@ -40,4 +40,4 @@ A simple web-based Tic-Tac-Toe game built using *HTML, CSS and JavaScript* to pr
 ## 🤝 Connect With Me
  
 💼 LinkedIn: https://www.linkedin.com/in/harshitha-kc14 
-💻 GitHub: https://github.com/YOUR-USERNAME
+💻 GitHub: https://github.com/Harshithakc14
